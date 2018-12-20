@@ -313,10 +313,10 @@ footer a {
 .col-2 {
   float: left;
   width: 64%;
-  margin-right: 10px;
 }
 
-.col-3 {
+.margin-right {
+  margin-right: 10px;
 }
 
 .first {
