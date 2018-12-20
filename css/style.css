@@ -315,8 +315,9 @@ footer a {
   width: 64%;
 }
 
-.margin-right {
+.margin {
   margin-right: 35px;
+  margin-bottom: 4px;
 }
 
 .first {
